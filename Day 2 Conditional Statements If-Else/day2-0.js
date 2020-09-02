@@ -1,4 +1,4 @@
-//code snippet
+//code snippet for If-Else
 
 function getGrade(score) {
     let grade;

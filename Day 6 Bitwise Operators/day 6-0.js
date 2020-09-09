@@ -1,3 +1,5 @@
+//code snippet 
+
 function getMaxLessThanK(n, k) {
     // let max = 0;
 

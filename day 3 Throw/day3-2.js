@@ -1,4 +1,4 @@
-// code snippet - Throw
+// code snippet for Throw
 
 
 /*
